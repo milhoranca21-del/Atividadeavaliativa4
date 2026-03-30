@@ -1,0 +1,30 @@
+{
+  "name": "atividadeavaliativa4",
+  "version": "1.0.0",
+  "description": "atividade avaliativa",
+  "keywords": [
+    "PPI",
+    "sessao",
+    "cookies"
+  ],
+  "homepage": "https://github.com/milhoranca21-del/Atividadeavaliativa4#readme",
+  "bugs": {
+    "url": "https://github.com/milhoranca21-del/Atividadeavaliativa4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milhoranca21-del/Atividadeavaliativa4.git"
+  },
+  "license": "ISC",
+  "author": "Arthur Ferreira Milhorança",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
